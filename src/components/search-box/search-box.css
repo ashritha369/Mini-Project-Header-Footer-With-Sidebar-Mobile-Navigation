@@ -1,0 +1,15 @@
+.input-tag {
+  height: 30px;
+  width: 300px;
+  margin-top: 30px;
+  border-radius: 5px;
+  background-color: #f3f4f6;
+  border: 1px solid rgb(165, 161, 161);
+}
+/* MEDIA QUERIES */
+@media (max-width: 600px) {
+  .input-tag {
+    width: 200px;
+    margin-top: 10px;
+  }
+}

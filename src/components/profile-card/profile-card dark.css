@@ -1,0 +1,58 @@
+.individual-profile-card-div {
+  height: 244px;
+  width: 192px;
+  left: 48px;
+  top: 0px;
+  border-radius: 12px;
+  padding: 12px;
+  padding-top: 80px;
+  background-color: #3b83f66b;
+  box-shadow: 0 2px 4px 0 rgba(110, 110, 110, 0.2),
+    0 3px 10px 0 rgba(110, 110, 110, 0.2);
+}
+.avatar-div {
+  margin: auto;
+  height: 96px;
+  width: 96px;
+  border-radius: 50%;
+  background-color: #2563eb;
+  color: white;
+  position: relative;
+}
+.name-and-details-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+}
+.details-div {
+  margin-top: 0px;
+}
+.name-div {
+  padding: 0px;
+  margin: 20px 2px 0px 0px;
+}
+
+p.initials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  top: 45%;
+  position: absolute;
+  left: 39%;
+}
+
+/* MEDIA QUERY */
+
+@media (max-width: 300px) {
+  .individual-profile-card-div {
+    height: 199px;
+    width: 100px;
+    padding-top: 50px;
+  }
+  .name-and-details-div {
+    font-size: 10px;
+  }
+}
