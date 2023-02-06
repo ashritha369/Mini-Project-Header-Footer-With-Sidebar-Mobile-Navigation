@@ -2,7 +2,7 @@
 
 1. Created react app using `npx create-react-app team-profile-card-display`
 
-2. Icons from ![https://icons8.com/icons/set/team](https://icons8.com/icons/set/team)
+2. Icons from [https://icons8.com/icons/set/team](https://icons8.com/icons/set/team)
 
 3. Font used: Inter
 
@@ -16,7 +16,7 @@
 
 # Used Box Shadow for profile cards
 
-![https://www.w3schools.com/css/css3_shadows_box.asp](https://www.w3schools.com/css/css3_shadows_box.asp)
+[https://www.w3schools.com/css/css3_shadows_box.asp](https://www.w3schools.com/css/css3_shadows_box.asp)
 
 # Need to work on:
 
